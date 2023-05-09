@@ -1,2 +1,2 @@
 # GroupProject
-Open please yamete!
+This is a personal project for a client.
